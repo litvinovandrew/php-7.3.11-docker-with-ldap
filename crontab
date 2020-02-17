@@ -1,0 +1,4 @@
+# Define paths
+PATH=/usr/local/bin:/usr/bin:/bin
+# Crontabs
+
